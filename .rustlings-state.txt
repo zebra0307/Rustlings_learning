@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-structs2
+enums1
 
 intro1
 intro2
@@ -33,6 +33,8 @@ move_semantics3
 move_semantics4
 move_semantics5
 structs1
+structs2
+structs3
 strings1
 strings2
 strings3
